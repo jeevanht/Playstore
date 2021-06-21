@@ -4,4 +4,4 @@ A PlayStore is a command line standalone digital marketplace that allows users t
 
 ## Programming language
 
-core Java
+Java
